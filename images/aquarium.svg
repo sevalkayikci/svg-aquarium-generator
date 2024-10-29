@@ -1,0 +1,42 @@
+<svg width="500" height="400" xmlns="http://www.w3.org/2000/svg">
+<rect width="500" height="400" fill="#608BC1" />
+<ellipse cx="50" cy="150" rx="20" ry="10" fill="pink" />
+<polygon points="70,150 80,140 80,160" fill="pink" />
+<ellipse cx="110" cy="150" rx="20" ry="10" fill="pink" />
+<polygon points="130,150 140,140 140,160" fill="pink" />
+<ellipse cx="170" cy="150" rx="20" ry="10" fill="pink" />
+<polygon points="190,150 200,140 200,160" fill="pink" />
+<ellipse cx="230" cy="150" rx="20" ry="10" fill="pink" />
+<polygon points="250,150 260,140 260,160" fill="pink" />
+<ellipse cx="290" cy="150" rx="20" ry="10" fill="pink" />
+<polygon points="310,150 320,140 320,160" fill="pink" />
+<ellipse cx="350" cy="150" rx="20" ry="10" fill="pink" />
+<polygon points="370,150 380,140 380,160" fill="pink" />
+<ellipse cx="410" cy="150" rx="20" ry="10" fill="pink" />
+<polygon points="430,150 440,140 440,160" fill="pink" />
+<rect x="30" y="250" width="15" height="300" fill="#31511E" />
+<rect x="80" y="250" width="15" height="300" fill="#31511E" />
+<rect x="130" y="250" width="15" height="300" fill="#31511E" />
+<rect x="180" y="250" width="15" height="300" fill="#31511E" />
+<rect x="230" y="250" width="15" height="300" fill="#31511E" />
+<rect x="280" y="250" width="15" height="300" fill="#31511E" />
+<rect x="330" y="250" width="15" height="300" fill="#31511E" />
+<rect x="380" y="250" width="15" height="300" fill="#31511E" />
+<rect x="430" y="250" width="15" height="300" fill="#31511E" />
+<rect x="480" y="250" width="15" height="300" fill="#31511E" />
+<rect x="10" y="300" width="15" height="150" fill="#859F3D" />
+<rect x="60" y="300" width="15" height="150" fill="#859F3D" />
+<rect x="110" y="300" width="15" height="150" fill="#859F3D" />
+<rect x="160" y="300" width="15" height="150" fill="#859F3D" />
+<rect x="210" y="300" width="15" height="150" fill="#859F3D" />
+<rect x="260" y="300" width="15" height="150" fill="#859F3D" />
+<rect x="310" y="300" width="15" height="150" fill="#859F3D" />
+<rect x="360" y="300" width="15" height="150" fill="#859F3D" />
+<rect x="410" y="300" width="15" height="150" fill="#859F3D" />
+<rect x="460" y="300" width="15" height="150" fill="#859F3D" />
+<rect x="510" y="300" width="15" height="150" fill="#859F3D" />
+<rect x="560" y="300" width="15" height="150" fill="#859F3D" />
+<rect x="610" y="300" width="15" height="150" fill="#859F3D" />
+<rect x="660" y="300" width="15" height="150" fill="#859F3D" />
+<rect x="710" y="300" width="15" height="150" fill="#859F3D" />
+</svg>
